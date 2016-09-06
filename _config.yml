@@ -1,0 +1,15 @@
+---
+title: LuxuryHotelCompany
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: info@luxuryhotelcompany.com
+description:
+baseurl:
+url: http://top10a.luxuryhotelcompany.com
+markdown: kramdown

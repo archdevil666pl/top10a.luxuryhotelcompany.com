@@ -1,0 +1,121 @@
+---
+- title: Bilderberg Hotel de Buunderkamp
+  location: Wolfheze
+  tagline: ONGESTOORD GENIETEN
+  image: "/img/hotels/Buunderkamp.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=430&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - Gebruik van Fietsen en/of Wellness
+  night: 2
+  region: Midden-Nederland
+  area: Natuur
+- title: Herberg de Gouden Leeuw
+  location: Bronkhorst
+  tagline: OVERNACHT IN NL'S KLEINSTE STADJE
+  image: "/img/hotels/goudenleeuw.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - 4-Gangendiner voor 2 pers
+  night: 2
+  region: Midden-Nederland
+  area: Natuur
+- title: Thermae 2OOO
+  location: Valkenburg aan de Geul
+  tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
+  image: "/img/hotels/Thermea2000.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=127&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3 Dagen gebruik van Wellness
+  - 60.000m2 Wellness (binnen en buiten)
+  night: 2
+  region: Zuid-Nederland
+  area: Natuur
+- title: Grand Hotel Amrâth Kurhaus
+  location: Scheveningen
+  tagline: WAKKER WORDEN AAN ZEE
+  image: "/img/hotels/Kurhaus.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=235&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - Late check-out
+  night: 1
+  region: Midden-Nederland
+  area: Kust
+- title: Hampshire Paping en Spa
+  location: Ommen
+  tagline: SPA & WELLNESS HOTEL
+  image: "/img/hotels/Papingspa.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - Gebruik van Wellness
+  night: 2
+  region: Noord-Nederland
+  area: Natuur
+- title: Bilderberg Europa Hotel
+  location: Scheveningen
+  tagline: WAKKER WORDEN AAN ZEE
+  image: "/img/hotels/Europahotel.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - Late check-out
+  - Gebruik van Wellness
+  night: 2
+  region: Midden-Nederland
+  area: Kust
+- title: Post-Plaza Hotel & Grand Café
+  location: Leeuwarden
+  tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
+  image: "/img/hotels/Post-plaza.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - Gebruik van Wellness
+  night: 2
+  region: Noord-Nederland
+  area: Natuur
+- title: Hampshire Hotel Zuid-Drenthe
+  location: Erica
+  tagline: WEGDROMEN IN DRENTHE
+  image: "/img/hotels/hampshire-hotel-zuid.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=203&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 4-Gangendiner voor 2 pers
+  - Gebruik van Wellness
+  night: 2
+  region: Noord-Nederland
+  area: Natuur
+- title: Lindner Hotel & City Lounge
+  location: Antwerpen (BE)
+  tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
+  image: "/img/hotels/Lindner.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=482&country=4&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - Gebruik van Fitness en Sauna
+  - Naast Antwerpen CS
+  night: 2
+  region: Belgie
+  area: Stad
+- title: Huis ten Wolde
+  location: De Bult
+  tagline: ART & WELLNESS HOTEL
+  image: "/img/hotels/Huis-ten-wolde.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 3 Nachten incl. ontbijt voor 2 pers
+  - Facial of Massage voor 2 pers
+  - Gebruik van Wellness
+  night: 3
+  region: Noord-Nederland
+  area: Natuur
