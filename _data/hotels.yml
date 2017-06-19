@@ -35,18 +35,6 @@
   night: 1
   region: Midden-Nederland
   area: Kust
-- title: Hampshire Paping en Spa
-  location: Ommen
-  tagline: SPA & WELLNESS HOTEL
-  image: "/img/hotels/Papingspa.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - 3-Gangendiner voor 2 pers
-  - Gebruik van Wellness
-  night: 2
-  region: Noord-Nederland
-  area: Natuur
 - title: Bilderberg Europa Hotel
   location: Scheveningen
   tagline: WAKKER WORDEN AAN ZEE
@@ -64,6 +52,18 @@
   tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
   image: "/img/hotels/Post-plaza.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - Gebruik van Wellness
+  night: 2
+  region: Noord-Nederland
+  area: Natuur
+- title: Hampshire Paping en Spa
+  location: Ommen
+  tagline: SPA & WELLNESS HOTEL
+  image: "/img/hotels/Papingspa.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
   - 3-Gangendiner voor 2 pers
