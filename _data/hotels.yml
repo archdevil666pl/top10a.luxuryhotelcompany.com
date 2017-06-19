@@ -11,18 +11,6 @@
   night: 2
   region: Midden-Nederland
   area: Natuur
-- title: Herberg de Gouden Leeuw
-  location: Bronkhorst
-  tagline: OVERNACHT IN NL'S KLEINSTE STADJE
-  image: "/img/hotels/goudenleeuw.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - 3-Gangendiner voor 2 pers
-  - 4-Gangendiner voor 2 pers
-  night: 2
-  region: Midden-Nederland
-  area: Natuur
 - title: Thermae 2OOO
   location: Valkenburg aan de Geul
   tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
@@ -95,6 +83,18 @@
   night: 2
   region: Noord-Nederland
   area: Natuur
+- title: Herberg de Gouden Leeuw
+  location: Bronkhorst
+  tagline: OVERNACHT IN NL'S KLEINSTE STADJE
+  image: "/img/hotels/goudenleeuw.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
+  - 4-Gangendiner voor 2 pers
+  night: 2
+  region: Midden-Nederland
+  area: Natuur
 - title: Lindner Hotel & City Lounge
   location: Antwerpen (BE)
   tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
@@ -110,7 +110,7 @@
 - title: Huis ten Wolde
   location: De Bult
   tagline: ART & WELLNESS HOTEL
-  image: "/img/hotels/Huis-ten-wolde.jpg"
+  image: "/uploads/2017/06/19/Huistenwolde.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=
   points:
   - 3 Nachten incl. ontbijt voor 2 pers
