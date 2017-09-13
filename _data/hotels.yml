@@ -95,17 +95,17 @@
   night: 2
   region: Midden-Nederland
   area: Natuur
-- title: Lindner Hotel & City Lounge
-  location: Antwerpen (BE)
-  tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
-  image: "/img/hotels/Lindner.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=
+- title: Mainport Design Hotel
+  location: Rotterdam
+  tagline: ULTIEM GENIETEN IN HARTJE ROTTERDAM
+  image: "/uploads/2017/09/13/Mainport.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=408&country=1&la=2&autoLogin=true&actie=
   points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - Gebruik van Fitness en Sauna
-  - Naast Antwerpen CS
-  night: 2
-  region: Belgie
+  - 1 Nacht incl. champagne ontbijt voor 2 pers
+  - 'Toegang tot Spa Heaven '
+  - Cocktail incl. snack in de cocktailbar 'On The Rocks'
+  night: 1
+  region: Zuid-Nederland
   area: Stad
 - title: Hotel Landgoed Ehzerwold
   location: Almen
