@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="row">
   <div class="hotel-row">
   {% for hotel in site.data.hotels %}
@@ -9,3 +8,6 @@ layout: default
   {% endfor %}
   </div>
 </div>
+<script>
+!function(){var a=function(a,b){var c=null,d=[];return a.substr(1).split("&").forEach(function(a){d=a.split("="),d[0]===b&&(c=decodeURIComponent(d[1]))}),c};l=document.getElementsByTagName("a"),p="actie",c=a(location.search,p);if(!c){return;}for(var b in l)l.hasOwnProperty(b)&&(l[b].href=l[b].href.replace(a(l[b].href,p),c))}();
+</script>
