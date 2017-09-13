@@ -107,15 +107,15 @@
   night: 2
   region: Belgie
   area: Stad
-- title: Huis ten Wolde
-  location: De Bult
-  tagline: ART & WELLNESS HOTEL
-  image: "/uploads/2017/06/19/Huistenwolde.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=
+- title: Hotel Landgoed Ehzerwold
+  location: Almen
+  tagline: HISTORISCH LANDGOED IN DE NATUUR
+  image: "/uploads/2017/09/13/Ehzerwold.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=445&country=1&la=2&autoLogin=true&actie=
   points:
   - 3 Nachten incl. ontbijt voor 2 pers
-  - Facial of Massage voor 2 pers
-  - Gebruik van Wellness
+  - 2x dinerbuffet voor 2 personen
+  - Fietshuur incl. routes
   night: 3
-  region: Noord-Nederland
+  region: Midden-Nederland
   area: Natuur
